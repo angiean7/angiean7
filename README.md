@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angiean7
-- 🌱 I’m currently learning Linux drivers
+- 🌱 I’m currently learning C C++ C# Linux drivers
 - 📫 How to reach me: i.angie.anqi@gmail.com
 
 <!---
